@@ -1,0 +1,3 @@
+﻿  Note.cpp
+C:\Users\TGDDDuyTan\source\repos\Note\Note\Note.cpp(35): warning C4715: 'verify': not all control paths return a value
+  Note.vcxproj -> C:\Users\TGDDDuyTan\source\repos\Note\x64\Debug\Note.exe
